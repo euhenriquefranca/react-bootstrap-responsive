@@ -11,10 +11,10 @@
 ```bash
 
     # Clonar o repositório
-    $ git clone https://github.com/grioos/ecoleta
+    $ git clone https://github.com/euhenriquefranca/react-bootstrap-responsive
 
     # Entrar no diretório
-    $ cd ecoleta
+    $ cd react-bootstrap-responsive
 
     # Instale as dependências
     $ npm install
