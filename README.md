@@ -1,10 +1,10 @@
 ## Website responsivo com Bootstrap e ReactJS
 
 :rocket: Tecnologias utilizadas:
-- HTML,
-- CSS,
-- ReactJS,
-- Bootstrap
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [ReactJS](https://pt-br.reactjs.org/docs/add-react-to-a-website.html)
+- [Bootstrap](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
 
 ## 🗂 Como baixar e iniciar o projeto
 
